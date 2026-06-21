@@ -1,0 +1,28 @@
+TEST CASE 1
+
+Input:
+Name: JENNIFER
+Marks: 95
+
+Expected Output:
+Grade: A
+Message: Excellent! Outstanding performance! 🌟
+
+TEST CASE 2
+
+Input:
+Name: ANU
+Marks: 85
+
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up! 👍
+
+TEST CASE 3
+
+Input:
+Name: ANOOP
+Marks: 110
+
+Expected Output:
+Invalid input! Marks must be between 0 and 100.
