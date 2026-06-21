@@ -100,11 +100,11 @@ python grade_calculator.py
 
 📊 Sample Output
 
-Enter student name: Priya
+Enter student name: JENNI
 
 Enter marks (0-100): 85
 
-📊 RESULT FOR PRIYA:
+📊 RESULT FOR JENNI:
 
 Marks: 85/100
 
