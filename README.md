@@ -1,11 +1,11 @@
-🎓 Student Grade Calculator
+ Student Grade Calculator
 
-📌 Project Overview
+ Project Overview
 
 The Student Grade Calculator is a simple Python application that calculates a student's grade based on the marks entered by the user. The program accepts the student's name and marks, validates the input, determines the grade using conditional statements, and displays an encouraging message according to the student's performance.
 This project was developed to practice fundamental Python concepts such as variables, functions, loops, conditional statements, and input validation.
 
-🎯 Objectives
+ Objectives
 
 The main objectives of this project are:
 * Learn how to accept user input using input()
@@ -15,7 +15,7 @@ The main objectives of this project are:
 * Use loops for repeated input requests
 * Generate meaningful output based on conditions
 
-✨ Features
+ Features
 
 * Accepts student name and marks as input
 * Validates marks between 0 and 100
@@ -24,13 +24,13 @@ The main objectives of this project are:
 * Uses a while loop to handle invalid inputs
 * Provides user-friendly output
 
-🛠 Technologies Used
+ Technologies Used
 
 * Python 3.x
 * Command Line Interface (CLI)
 No external libraries are required.
 
-📂 Project Structure
+ Project Structure
 
 Student-Grade-Calculator/
 │
@@ -43,7 +43,7 @@ Student-Grade-Calculator/
     ├── grade_b.png
     └── invalid_input.png
 
-📝 Grading System
+ Grading System
 
 Marks Range	Grade
 
@@ -57,7 +57,7 @@ Marks Range	Grade
 
 0 - 59	F
 
-💬 Encouraging Messages
+ Encouraging Messages
 
 Grade	Message
 
@@ -71,7 +71,7 @@ D	Keep Working Hard! Improvement is possible! 💪
 
 F	Don't give up! Practice and try again! 📚
 
-⚙️ Setup Instructions
+ Setup Instructions
 
 Step 1: Install Python
 
@@ -98,13 +98,13 @@ Execute the Python file:
 python grade_calculator.py
 
 
-📊 Sample Output
+ Sample Output
 
 Enter student name: JENNI
 
 Enter marks (0-100): 85
 
-📊 RESULT FOR JENNI:
+ RESULT FOR JENNI:
 
 Marks: 85/100
 
@@ -112,7 +112,7 @@ Grade: B
 
 Message: Very Good! Keep it up! 👍
 
-🧪 Testing
+ Testing
 
 Test Case 1
 
@@ -154,7 +154,7 @@ Expected Output:
 
 Invalid input! Marks must be between 0 and 100.
 
-📚 What I Learned
+ What I Learned
 
 Through this project, I learned how to use:
 * Variables and data types
@@ -166,7 +166,7 @@ Through this project, I learned how to use:
 * Writing interactive Python programs
 This project improved my understanding of Python programming fundamentals and helped me build confidence in creating beginner-level applications.
 
-🔮 Future Improvements
+ Future Improvements
 
 Possible enhancements for future versions include:
 * Supporting multiple student records
@@ -175,7 +175,7 @@ Possible enhancements for future versions include:
 * Adding a graphical user interface (GUI)
 * Generating student report cards automatically
 
-✅ Conclusion
+ Conclusion
 
 The Student Grade Calculator project successfully demonstrates the use of fundamental Python programming concepts such as variables, user input, conditional statements, functions, loops, and input validation. The program accurately calculates student grades based on marks entered by the user and provides encouraging feedback for each grade category.
 Through this project, I gained practical experience in creating interactive Python applications, handling invalid inputs, and organizing code using functions. This project strengthened my understanding of Python basics and provided a solid foundation for developing more advanced applications in the future.
