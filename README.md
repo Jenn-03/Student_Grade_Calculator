@@ -1,9 +1,12 @@
 🎓 Student Grade Calculator
+
 📌 Project Overview
+
 The Student Grade Calculator is a simple Python application that calculates a student's grade based on the marks entered by the user. The program accepts the student's name and marks, validates the input, determines the grade using conditional statements, and displays an encouraging message according to the student's performance.
 This project was developed to practice fundamental Python concepts such as variables, functions, loops, conditional statements, and input validation.
 
 🎯 Objectives
+
 The main objectives of this project are:
 * Learn how to accept user input using input()
 * Understand and implement if-elif-else statements
@@ -13,6 +16,7 @@ The main objectives of this project are:
 * Generate meaningful output based on conditions
 
 ✨ Features
+
 * Accepts student name and marks as input
 * Validates marks between 0 and 100
 * Uses a function to calculate grades
@@ -21,11 +25,13 @@ The main objectives of this project are:
 * Provides user-friendly output
 
 🛠 Technologies Used
+
 * Python 3.x
 * Command Line Interface (CLI)
 No external libraries are required.
 
 📂 Project Structure
+
 Student-Grade-Calculator/
 │
 ├── README.md
@@ -38,20 +44,26 @@ Student-Grade-Calculator/
     └── invalid_input.png
 
 📝 Grading System
+
 Marks Range	Grade
-90 - 100	A
+
+90 - 100 A
 80 - 89	B
 70 - 79	C
 60 - 69	D
 0 - 59	F
+
 💬 Encouraging Messages
+
 Grade	Message
 A	Excellent! Outstanding performance! 🌟
 B	Very Good! Keep it up! 👍
 C	Good Job! You can do even better! 😊
 D	Keep Working Hard! Improvement is possible! 💪
 F	Don't give up! Practice and try again! 📚
+
 ⚙️ Setup Instructions
+
 Step 1: Install Python
 Download and install Python 3 from the official website.
 Step 2: Download or Clone the Repository
@@ -66,22 +78,32 @@ Execute the Python file:
 python grade_calculator.py
 
 📊 Sample Output
+
 Enter student name: Priya
 Enter marks (0-100): 85
 
 📊 RESULT FOR PRIYA:
+
 Marks: 85/100
 Grade: B
 Message: Very Good! Keep it up! 👍
 
 🧪 Testing
+
 Test Case 1
+
 Input:
+
 Name: JENNIFER
+
 Marks: 95
+
 Expected Output:
+
 Grade: A
+
 Message: Excellent! Outstanding performance! 🌟
+
 Test Case 2
 Input:
 Name: ANU
